@@ -1,0 +1,14 @@
+[package]
+name = "cryptscale"
+version = "0.1.0"
+edition = "2021"
+description = "A fast, secure file encryption and decryption tool for cloud storage, with random chunking and container camouflage."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/imuyue/CryptScale"
+homepage = "https://cryptscale.org"
+documentation = "https://docs.rs/cryptscale"
+readme = "README.md"
+keywords = ["encryption", "cloud-storage", "cryptography", "security"]
+categories = ["cryptography", "command-line-utilities"]
+
+[dependencies]
